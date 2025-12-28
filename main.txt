@@ -4,3 +4,5 @@ line 3 ()changed
 line 4 edited
 line 5 edited
 line 6
+line 7
+line 8
